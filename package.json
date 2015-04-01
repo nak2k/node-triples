@@ -1,0 +1,27 @@
+{
+  "name": "triples",
+  "version": "0.0.1",
+  "description": "Utility for RDF Triples",
+  "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/nak2k/node-triples/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "homepage": "https://github.com/nak2k/node-triples",
+  "license": "MIT",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nak2k/node-triples.git"
+  },
+  "scripts": {},
+  "keywords": [
+    "rdf",
+    "triples"
+  ],
+  "files": [
+    "README.md",
+    "lib/"
+  ]
+}
