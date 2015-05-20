@@ -7,7 +7,9 @@
     "url": "https://github.com/nak2k/node-triples/issues"
   },
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "tape": "^4.0.0"
+  },
   "homepage": "https://github.com/nak2k/node-triples",
   "license": "MIT",
   "main": "lib",
@@ -15,7 +17,9 @@
     "type": "git",
     "url": "https://github.com/nak2k/node-triples.git"
   },
-  "scripts": {},
+  "scripts": {
+    "test": "tape test/*.js"
+  },
   "keywords": [
     "rdf",
     "triples"
